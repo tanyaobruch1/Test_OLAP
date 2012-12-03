@@ -1,0 +1,6 @@
+C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalculatorService2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalculatorService2\bin\Debug\CalculatorService2.exe.config
+C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalculatorService2\bin\Debug\CalculatorService2.exe
+C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalculatorService2\bin\Debug\CalculatorService2.pdb
+C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalculatorService2\obj\x86\Debug\CalculatorService2.exe
+C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalculatorService2\obj\x86\Debug\CalculatorService2.pdb
