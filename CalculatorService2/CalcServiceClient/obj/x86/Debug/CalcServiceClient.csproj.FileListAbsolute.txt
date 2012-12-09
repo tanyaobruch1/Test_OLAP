@@ -1,9 +1,0 @@
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\bin\Debug\CalcServiceClient.exe
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\bin\Debug\CalcServiceClient.pdb
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\CalcServiceClient.Form1.resources
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\CalcServiceClient.Properties.Resources.resources
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\CalcServiceClient.exe
-C:\Users\Tanya\documents\visual studio 2010\Projects\CalculatorService2\CalcServiceClient\obj\x86\Debug\CalcServiceClient.pdb

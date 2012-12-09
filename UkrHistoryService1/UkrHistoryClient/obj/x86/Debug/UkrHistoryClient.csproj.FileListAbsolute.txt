@@ -1,0 +1,10 @@
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\bin\Debug\UkrHistoryClient.exe.config
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\bin\Debug\UkrHistoryClient.exe
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\bin\Debug\UkrHistoryClient.pdb
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\UkrHistoryClient.Form1.resources
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\UkrHistoryClient.Properties.Resources.resources
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\UkrHistoryClient.exe
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryClient\obj\x86\Debug\UkrHistoryClient.pdb

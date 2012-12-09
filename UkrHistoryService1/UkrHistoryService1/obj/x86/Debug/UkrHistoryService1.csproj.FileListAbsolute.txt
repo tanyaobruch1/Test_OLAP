@@ -1,0 +1,6 @@
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryService1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryService1\bin\Debug\UkrHistoryService1.exe.config
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryService1\bin\Debug\UkrHistoryService1.exe
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryService1\bin\Debug\UkrHistoryService1.pdb
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryService1\obj\x86\Debug\UkrHistoryService1.exe
+c:\users\tanya\documents\visual studio 2010\Projects\UkrHistoryService1\UkrHistoryService1\obj\x86\Debug\UkrHistoryService1.pdb
